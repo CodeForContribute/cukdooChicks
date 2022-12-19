@@ -1,3 +1,22 @@
 .bg-light{
-    background-color:#A3866A !important;
+    background-color:#FFFFFF !important;
 }
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link{
+    font-size:20px;
+    font-weight: 16000;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+.me-2 {
+    margin-right: 0.5rem !important;
+    border-color: red;
+}
+.btn{
+    background-color:red;
+    color:white;
+    border-color: red;
+}
+.btn:hover{
+    background-color: red !important;
+}
+
