@@ -7,6 +7,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { HomeComponent } from './home/home.component';
 import { MenuComponent } from './menu/menu.component';
 import { BestdealComponent } from './bestdeal/bestdeal.component';
+import { MenusidebarComponent } from './menusidebar/menusidebar.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { BestdealComponent } from './bestdeal/bestdeal.component';
     NavbarComponent,
     HomeComponent,
     MenuComponent,
-    BestdealComponent
+    BestdealComponent,
+    MenusidebarComponent
   ],
   imports: [
     BrowserModule,
